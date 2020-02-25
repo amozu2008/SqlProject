@@ -1,3 +1,5 @@
+
+-- This is my first sql script
 create database AlajoDB
 use AlajoDB
 go
